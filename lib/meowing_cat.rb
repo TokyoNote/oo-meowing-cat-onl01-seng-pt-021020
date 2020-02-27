@@ -6,3 +6,5 @@ end
 def meow
   puts "meow!"
 end
+
+Cat.meow
